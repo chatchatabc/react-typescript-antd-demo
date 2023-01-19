@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React-typescript-ant-design Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 The project uses ant design for UI components.
@@ -60,3 +60,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn Ant design, check out the [Ant design documentation](https://ant.design/docs/react/introduce).
+
+To learn Typescript, check out the [Typescript documentation](https://www.typescriptlang.org/).
+
